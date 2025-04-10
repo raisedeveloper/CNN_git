@@ -1,2 +1,2 @@
 # CNN_model2 :
-ensenble model
+cnn_ensemble_training
